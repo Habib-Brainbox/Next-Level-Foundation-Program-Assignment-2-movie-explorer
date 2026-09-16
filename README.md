@@ -31,7 +31,7 @@ If you want to run this project locally on your machine, just follow these quick
 
 1. Clone this repository to your local computer:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Habib-Brainbox/Next-Level-Foundation-Program-Assignment-2-movie-explorer
    ```
 
 2. Navigate into the project folder:
@@ -80,7 +80,7 @@ src/
 ##  Live Demo
 
 You can view the live, deployed version of this application right here:
- **[Add your Vercel or Netlify link here]**
+(https://next-level-foundation-program-assignment-2-movie-79kbjt471.vercel.app/)
 
 ---
 
