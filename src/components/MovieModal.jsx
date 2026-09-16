@@ -9,10 +9,10 @@ export default function MovieModal({ movie, onClose }) {
       className="fixed inset-0 bg-black bg-opacity-75 flex items-center justify-center p-4 z-50 backdrop-blur-sm"
       onClick={onClose} 
     >
-      <div 
-        className="bg-gray-800 rounded-lg max-w-2xl w-full overflow-hidden shadow-2xl relative"
-        onClick={(e) => e.stopPropagation()} 
-      >
+    <div 
+      className="bg-gray-800 rounded-lg max-w-2xl w-full overflow-y-auto shadow-2xl relative max-h-[90vh]"
+      onClick={(e) => e.stopPropagation()} 
+    >
         {/* Close Button at Top Right */}
         <button 
           onClick={onClose}

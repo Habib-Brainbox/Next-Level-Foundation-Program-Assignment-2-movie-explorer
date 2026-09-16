@@ -80,7 +80,7 @@ src/
 ##  Live Demo
 
 You can view the live, deployed version of this application right here:
-(https://next-level-foundation-program-assignment-2-movie-79kbjt471.vercel.app/)
+(https://next-level-foundation-program-assig.vercel.app/)
 
 ---
 
